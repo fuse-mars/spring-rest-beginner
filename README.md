@@ -52,12 +52,14 @@ git checkout -b develop
 git remote add origin <url of the repository you created in porevious step>
 ```
 
-* add and push all your source code to github
+* Add and push all your source code to github
 ```sh
 git add .
 git commit -m "create one api that allows users to view time from different cities"
 git push origin develop:develop
 ```
+
+* Configure **Travis-ci** to run your tests
 
 
 
