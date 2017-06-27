@@ -19,8 +19,10 @@ curl http://localhost:8080/api/v1/time/New York?time=10:30 PM&city=Kathmandu
 
 ## Step by Step
 
+### Code Writing
 * Prerequisite: You should have your app running locally!
 
+### Code Tracking
 * Initialize git repository in your project
 
 ```sh
@@ -51,6 +53,7 @@ git commit -m "create one api that allows users to view time from different citi
 git push origin develop:develop
 ```
 
+### Test Automation
 * Configure **Travis-ci** to run your tests
 
 TODO
