@@ -19,24 +19,7 @@ curl http://localhost:8080/api/v1/time/New York?time=10:30 PM&city=Kathmandu
 
 ## Step by Step
 
-* Create spring boot application
-[Link to create new app](https://start.spring.io/)
-
-* Add the code
-```java
-```
-
-* write unit test for the method that converts the time
-```java
-```
-
-* Write acceptance test for the api handling controller
-```java
-```
-
-* Run your tests locally
-```sh
-```
+* Prerequisite: You should have your app running locally!
 
 * Initialize git repository in your project
 
